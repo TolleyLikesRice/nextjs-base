@@ -1,3 +1,3 @@
-# FlyDiary
+# Tolley's Next.JS Base
 
-Isn't much at the moment.
+Just my template for my NextJS Projects
